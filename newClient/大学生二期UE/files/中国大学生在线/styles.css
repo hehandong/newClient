@@ -1,0 +1,154 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:750px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:399px;
+  height:745px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:399px;
+  height:745px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:364px;
+  width:395px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:36px;
+  top:139px;
+  width:315px;
+  height:455px;
+  overflow:hidden;
+}
+#u2_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:455px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u2_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:-10px;
+  width:315px;
+  height:465px;
+  font-size:36px;
+  color:#333333;
+}
+#u3_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:465px;
+}
+#u4 {
+  position:absolute;
+  left:2px;
+  top:212px;
+  width:311px;
+  word-wrap:break-word;
+}
+#u5 {
+  position:absolute;
+  left:315px;
+  top:0px;
+  width:315px;
+  height:455px;
+  font-size:36px;
+  color:#333333;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:455px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:206px;
+  width:311px;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:630px;
+  top:0px;
+  width:315px;
+  height:455px;
+  font-size:36px;
+  color:#333333;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:455px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:206px;
+  width:311px;
+  word-wrap:break-word;
+}
+#u9 {
+  position:absolute;
+  left:409px;
+  top:237px;
+  width:341px;
+  height:66px;
+  font-size:28px;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:341px;
+  height:66px;
+}
+#u10 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:341px;
+  word-wrap:break-word;
+}

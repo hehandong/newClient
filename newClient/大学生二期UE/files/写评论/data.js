@@ -1,0 +1,166 @@
+﻿$axure.loadCurrentPage({
+  "url":"写评论.html",
+  "generationDate":new Date(1417659391486.16),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ce5754eb8a1c4da787718201d4ab4592",
+    "type":"Axure:Page",
+    "name":"写评论",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e932359b93104bcbb33875ec4bb380db",
+          "label":"背景",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":399,
+              "height":745}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1e4e2ba941646b5a83574f85dd76476",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":399,
+                  "height":745}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/中国大学生在线/背景_u0.png"}},
+{
+          "id":"49a2ecf3eaf148f8ab4c9d5399993019",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":36,
+              "y":140},
+            "size":{
+              "width":317,
+              "height":454}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5eeafd6bc3b8435bbb4b8d8b3e7a15b0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":36,
+                  "y":140},
+                "size":{
+                  "width":317,
+                  "height":454}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/写评论/u2.png"}},
+{
+          "id":"8ba7314d541c466c887b16bfb6a9819f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":140},
+            "size":{
+              "width":50,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 显示评论",
+                      "target":{
+                        "targetType":"page",
+                        "url":"显示评论.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a839433bf0f4443f84f2b012fe4e081f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":140},
+            "size":{
+              "width":50,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 显示评论",
+                      "target":{
+                        "targetType":"page",
+                        "url":"显示评论.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e932359b93104bcbb33875ec4bb380db":{
+      "scriptId":"u0"},
+    "e1e4e2ba941646b5a83574f85dd76476":{
+      "scriptId":"u1"},
+    "49a2ecf3eaf148f8ab4c9d5399993019":{
+      "scriptId":"u2"},
+    "5eeafd6bc3b8435bbb4b8d8b3e7a15b0":{
+      "scriptId":"u3"},
+    "8ba7314d541c466c887b16bfb6a9819f":{
+      "scriptId":"u4"},
+    "a839433bf0f4443f84f2b012fe4e081f":{
+      "scriptId":"u5"}}});

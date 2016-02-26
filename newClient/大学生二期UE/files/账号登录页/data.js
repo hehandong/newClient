@@ -1,0 +1,654 @@
+﻿$axure.loadCurrentPage({
+  "url":"账号登录页.html",
+  "generationDate":new Date(1417659390325.09),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f2d8487ec7cb42adbfe631926d0a012e",
+    "type":"Axure:Page",
+    "name":"账号登录页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"668ff031fd504178bfd7d67ff7e82ab5",
+          "label":"背景",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":399,
+              "height":745}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1e9ee23319fc45c49ba1b25c02940a74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":399,
+                  "height":745}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/中国大学生在线/背景_u0.png"}},
+{
+          "id":"f7633730c88d4cadb150cefe93f372b0",
+          "label":"头部",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFEB1015},
+            "location":{
+              "x":35,
+              "y":138},
+            "size":{
+              "width":319,
+              "height":31},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbd7f5d2258e45dea6f63e9373b43ec8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFEB1015},
+                "location":{
+                  "x":35,
+                  "y":138},
+                "size":{
+                  "width":319,
+                  "height":31},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页--未登录/头部_u2.png"}},
+{
+          "id":"cedcbdb45693466e9b8ab6b02b2217ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":38,
+              "y":142},
+            "size":{
+              "width":13,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b1d86db7e2d54cb69a1452d4e22ece3b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":38,
+                  "y":142},
+                "size":{
+                  "width":13,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 全局页面--未登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"全局页面--未登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3b9df437374e4957ac7d7091b6d43a3c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":70,
+              "y":230},
+            "size":{
+              "width":33,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c4afdc109da44bb6ae8a9a64c571fab8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":70,
+                  "y":230},
+                "size":{
+                  "width":33,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ca51acd6796146a58d2616c6879ee108",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":70,
+              "y":300},
+            "size":{
+              "width":33,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d47385ec0e3746f28227adb87bf99c7d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":70,
+                  "y":300},
+                "size":{
+                  "width":33,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bb99b23a24ee49b6a9a5732eb54a0dfd",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":113,
+              "y":250},
+            "size":{
+              "width":200,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/账号登录页/u10_line.png"}},
+{
+          "id":"7dcdb71c3d914d6ebd3d634c5f95e449",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":113,
+              "y":309},
+            "size":{
+              "width":200,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/账号登录页/u10_line.png"}},
+{
+          "id":"877990d6f8804e3b816f58266c5576ed",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":147,
+              "y":360},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 首页--登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页--登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"4cf15edde7df40fd97eddfb359f2d4de",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":163,
+              "y":224},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "placeholderText":"账号 邮箱"},
+{
+          "id":"eeedb77bda4c4f6696fa1622c41364b2",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":133,
+              "y":284},
+            "size":{
+              "width":160,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"632b13f288054d3d8a34cf4fecd40de2",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":276,
+              "y":142},
+            "size":{
+              "width":74,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 切换账号登录",
+                      "objectsToFades":[{
+                          "objectPath":["360288f6cd6e41fe96eec7cb194bd4d7"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"360288f6cd6e41fe96eec7cb194bd4d7",
+          "label":"切换账号登录",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":399,
+              "y":122.5},
+            "size":{
+              "width":110,
+              "height":60},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"31e251e861164104b2d1996b5f58c275",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":399,
+                  "y":122.5},
+                "size":{
+                  "width":110,
+                  "height":60},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 手机号登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"手机号登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/账号登录页/切换账号登录_u16.png"}},
+{
+          "id":"6488ace0ae8f43d0bdbce7bc6ae53808",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "location":{
+              "x":399,
+              "y":201},
+            "size":{
+              "width":257,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4b5b9554e8c1499ba8ee3edcc0951a2e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "location":{
+                  "x":399,
+                  "y":201},
+                "size":{
+                  "width":257,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"124ca69665bc41b9ac037bde71353b0c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":325},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c743c219068a4f9d89d9f6745f24b5f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":120,
+                  "y":325},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 手机注册页面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"手机注册页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2f8f4cf7f55746b1b5ce3658f8fa55ed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":248,
+              "y":322},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"122299f814d747daab1a6fe74b6fbcdd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":248,
+                  "y":322},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 账号密码找回",
+                      "target":{
+                        "targetType":"page",
+                        "url":"账号密码找回.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ab8670992cba42a8b68017403a0374e1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":409,
+              "y":309},
+            "size":{
+              "width":349,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f0ba433807394e59983f67c3289e51d4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":409,
+                  "y":309},
+                "size":{
+                  "width":349,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "668ff031fd504178bfd7d67ff7e82ab5":{
+      "scriptId":"u0"},
+    "1e9ee23319fc45c49ba1b25c02940a74":{
+      "scriptId":"u1"},
+    "f7633730c88d4cadb150cefe93f372b0":{
+      "scriptId":"u2"},
+    "dbd7f5d2258e45dea6f63e9373b43ec8":{
+      "scriptId":"u3"},
+    "cedcbdb45693466e9b8ab6b02b2217ac":{
+      "scriptId":"u4"},
+    "b1d86db7e2d54cb69a1452d4e22ece3b":{
+      "scriptId":"u5"},
+    "3b9df437374e4957ac7d7091b6d43a3c":{
+      "scriptId":"u6"},
+    "c4afdc109da44bb6ae8a9a64c571fab8":{
+      "scriptId":"u7"},
+    "ca51acd6796146a58d2616c6879ee108":{
+      "scriptId":"u8"},
+    "d47385ec0e3746f28227adb87bf99c7d":{
+      "scriptId":"u9"},
+    "bb99b23a24ee49b6a9a5732eb54a0dfd":{
+      "scriptId":"u10"},
+    "7dcdb71c3d914d6ebd3d634c5f95e449":{
+      "scriptId":"u11"},
+    "877990d6f8804e3b816f58266c5576ed":{
+      "scriptId":"u12"},
+    "4cf15edde7df40fd97eddfb359f2d4de":{
+      "scriptId":"u13"},
+    "eeedb77bda4c4f6696fa1622c41364b2":{
+      "scriptId":"u14"},
+    "632b13f288054d3d8a34cf4fecd40de2":{
+      "scriptId":"u15"},
+    "360288f6cd6e41fe96eec7cb194bd4d7":{
+      "scriptId":"u16"},
+    "31e251e861164104b2d1996b5f58c275":{
+      "scriptId":"u17"},
+    "6488ace0ae8f43d0bdbce7bc6ae53808":{
+      "scriptId":"u18"},
+    "4b5b9554e8c1499ba8ee3edcc0951a2e":{
+      "scriptId":"u19"},
+    "124ca69665bc41b9ac037bde71353b0c":{
+      "scriptId":"u20"},
+    "c743c219068a4f9d89d9f6745f24b5f8":{
+      "scriptId":"u21"},
+    "2f8f4cf7f55746b1b5ce3658f8fa55ed":{
+      "scriptId":"u22"},
+    "122299f814d747daab1a6fe74b6fbcdd":{
+      "scriptId":"u23"},
+    "ab8670992cba42a8b68017403a0374e1":{
+      "scriptId":"u24"},
+    "f0ba433807394e59983f67c3289e51d4":{
+      "scriptId":"u25"}}});
